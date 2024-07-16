@@ -1,4 +1,4 @@
-# Password Manager
+# PassVault
 
 This is a simple password manager built with Java. It allows you to create, manage, and retrieve password records securely using AES encryption.
 
@@ -18,8 +18,15 @@ This is a simple password manager built with Java. It allows you to create, mana
 ### Setup
 
 1. Clone the repository or download the project files.
+```text
+git clone https://github.com/SirZeck/PassVault.git
+cd PassVault
+```
 
 2. Make sure you have JDK installed.
+```text
+java -version
+```
 
 ### Compile and Run
 
@@ -38,4 +45,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Acknowledgments
 
-- This project is inspired by common password managers like Keepass
+- This project is inspired by [John Crickett's Coding Challenges](https://codingchallenges.fyi/challenges/challenge-password-manager)
